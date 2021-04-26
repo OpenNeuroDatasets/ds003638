@@ -1,0 +1,2060 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.3437500000	n/a	n/a	STATUS	n/a	n/a	65534
+4.4902343750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+4.9238281250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+5.0351562500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+6.2871093750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+6.3925781250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+6.9277343750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+7.0332031250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+7.7773437500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+7.8847656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+8.4277343750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+8.5371093750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+10.2792968750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+11.8632812500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+12.6093750000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+13.2070312500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+13.3828125000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+14.6328125000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+14.7402343750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+15.2109375000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+15.3125000000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+17.0546875000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+17.1640625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+18.7050781250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+19.4511718750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+19.9453125000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+20.1191406250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+21.3691406250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+21.8730468750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+21.9570312500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+23.2050781250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+23.8925781250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+23.9785156250	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+25.7207031250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+26.1953125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+26.2539062500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+26.9980468750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+27.5761718750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+27.6796875000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+28.9277343750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+30.5136718750	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+31.2578125000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+31.3671875000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+32.1191406250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+32.2304687500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+33.4804687500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+33.5878906250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+34.2675781250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+34.2929687500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+35.5449218750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+36.0703125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+36.1308593750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+37.3808593750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+37.9492187500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+37.9667968750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+39.7109375000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+39.8183593750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+40.3886718750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+40.4960937500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+41.7480468750	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+41.8535156250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+42.5976562500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+42.6777343750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+44.4218750000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+44.5273437500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+45.0761718750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+45.1660156250	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+46.4199218750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+46.5234375000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+46.9960937500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+47.1640625000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+48.9101562500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+49.0136718750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+49.5644531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+49.6523437500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+50.9042968750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+51.4316406250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+51.5312500000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+52.2753906250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+52.3808593750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+53.9277343750	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+55.6718750000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+55.7773437500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+57.3203125000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+58.0664062500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+58.6738281250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+58.7187500000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+60.4628906250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+60.5683593750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+62.1132812500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+63.8574218750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+63.9628906250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+64.5371093750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+64.6425781250	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+66.3847656250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+66.9804687500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+67.0917968750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+67.8359375000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+67.9453125000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+68.6210937500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+68.7167968750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+70.4609375000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+70.5664062500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+72.1093750000	n/a	n/a	80 5CCPT: Go Non-Response: Miss	n/a	n/a	65360
+73.8535156250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+73.9609375000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+74.4707031250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+74.5605468750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+75.3046875000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+75.4121093750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+75.9472656250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+76.0488281250	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+76.7968750000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+77.3359375000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+77.3808593750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+78.1269531250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+78.2343750000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+79.0273437500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+79.1386718750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+80.3886718750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+80.4960937500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+82.0390625000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+82.7851562500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+82.8925781250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+83.3378906250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+83.4375000000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+84.1816406250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+84.2890625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+84.9687500000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+85.0605468750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+85.8066406250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+86.3222656250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+86.4296875000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+87.1777343750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+87.2832031250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+87.8046875000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+87.9746093750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+89.2265625000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+89.8085937500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+89.9843750000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+91.2382812500	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+91.7167968750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+91.8222656250	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+93.0742187500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+93.1796875000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+93.6679687500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+93.7128906250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+94.4589843750	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+94.5644531250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+95.0644531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+95.1640625000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+95.9101562500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+97.4941406250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+98.7441406250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+98.8515625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+99.3261718750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+99.4375000000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+101.1796875000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+101.6230468750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+101.7265625000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+102.4726562500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+104.0566406250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+105.8007812500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+105.9062500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+106.4570312500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+106.4785156250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+107.7304687500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+107.8378906250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+108.3417968750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+108.4257812500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+110.1660156250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+110.2734375000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+110.7695312500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+110.7910156250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+112.0429687500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+112.1523437500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+112.7089843750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+112.7343750000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+113.9863281250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+114.0937500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+114.6289062500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+114.7304687500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+115.9824218750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+117.5664062500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+118.3125000000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+118.4218750000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+119.9648437500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+120.7070312500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+121.3828125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+121.4687500000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+122.2128906250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+122.3183593750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+123.8632812500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+124.6074218750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+125.1132812500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+125.2207031250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+126.9648437500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+127.0722656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+128.6152343750	n/a	n/a	80 5CCPT: Go Non-Response: Miss	n/a	n/a	65360
+130.3574218750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+131.0136718750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+131.1835937500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+131.9296875000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+132.0351562500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+132.5410156250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+132.5703125000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+134.3125000000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+134.8652343750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+134.9101562500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+136.6542968750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+138.2382812500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+139.4902343750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+139.5976562500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+140.0507812500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+140.1562500000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+141.8984375000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+142.4355468750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+142.5390625000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+143.7890625000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+143.8945312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+145.4394531250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+146.6933593750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+148.2753906250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+150.0195312500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+150.1230468750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+150.6328125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+150.7382812500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+151.9882812500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+152.0937500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+152.7246093750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+152.8925781250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+153.6406250000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+154.2441406250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+154.4101562500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+155.6621093750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+156.1328125000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+156.2343750000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+157.9785156250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+159.5625000000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+160.3085937500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+160.4140625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+160.8554687500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+160.9628906250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+161.7050781250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+162.3105468750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+162.4375000000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+163.1835937500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+163.2910156250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+163.8554687500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+164.0234375000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+165.2734375000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+165.8339843750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+166.0078125000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+167.7500000000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+168.2109375000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+168.3222656250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+169.0664062500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+169.1757812500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+169.7734375000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+169.8398437500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+171.5820312500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+172.2207031250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+172.3027343750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+173.0468750000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+173.7167968750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+173.8183593750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+175.5644531250	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+175.6718750000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+176.1289062500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+176.3105468750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+178.0507812500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+178.5078125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+178.5996093750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+180.3417968750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+180.8593750000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+180.9667968750	n/a	n/a	41 5CCPT: Go Response: Incorrect Button	n/a	n/a	65321
+182.2187500000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+182.3261718750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+182.8750000000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+182.9511718750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+184.6933593750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+185.3144531250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+185.4921875000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+186.2382812500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+186.3437500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+186.7675781250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+186.7832031250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+188.5273437500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+188.6347656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+189.0546875000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+189.1660156250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+190.4179687500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+191.0664062500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+191.0839843750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+191.8281250000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+191.9335937500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+192.4218750000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+192.5996093750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+194.3437500000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+194.4492187500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+194.9296875000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+195.0371093750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+196.7812500000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+196.8867187500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+197.3769531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+197.4062500000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+199.1503906250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+199.6796875000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+199.7890625000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+201.0390625000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+201.1445312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+201.6367187500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+201.8105468750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+203.0644531250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+203.1699218750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+204.7128906250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+205.9648437500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+206.4667968750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+206.5781250000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+208.3203125000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+208.4277343750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+208.9101562500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+209.0136718750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+210.2656250000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+210.3710937500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+210.8828125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+210.9824218750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+211.7285156250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+212.8144531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+212.9257812500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+214.1777343750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+214.8105468750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+214.9785156250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+216.7207031250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+217.3925781250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+217.4804687500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+218.7304687500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+219.3125000000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+219.3984375000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+220.6464843750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+221.1718750000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+221.2734375000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+222.0175781250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+222.6875000000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+222.7890625000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+224.5351562500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+225.0117187500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+225.1191406250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+225.8652343750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+227.4492187500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+228.1933593750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+228.9121093750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+228.9394531250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+230.6855468750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+231.3437500000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+231.5234375000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+232.2675781250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+232.7910156250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+232.8925781250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+234.6367187500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+234.7441406250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+235.3222656250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+235.4121093750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+237.1523437500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+237.2597656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+237.7968750000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+237.9667968750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+239.2148437500	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+239.3222656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+239.8652343750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+239.9746093750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+241.2265625000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+241.3320312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+241.8242187500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+241.9453125000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+243.6875000000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+244.1796875000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+244.2070312500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+245.9531250000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+246.0566406250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+247.6015625000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+248.8535156250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+248.9570312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+250.5039062500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+251.2480468750	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+251.3535156250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+251.9667968750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+252.0625000000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+252.8066406250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+252.9121093750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+253.4277343750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+253.5390625000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+254.7890625000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+255.2226562500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+255.3359375000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+256.0800781250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+257.6640625000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+258.4101562500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+258.5156250000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+259.0410156250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+259.1425781250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+260.8867187500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+260.9921875000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+262.5371093750	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+263.2812500000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+263.3886718750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+263.9960937500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+264.0820312500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+265.3320312500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+265.4394531250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+265.9648437500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+266.0781250000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+267.3281250000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+267.9199218750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+268.0234375000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+269.2714843750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+269.8886718750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+269.9902343750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+270.7363281250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+272.3203125000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+274.0644531250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+274.1718750000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+274.9062500000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+274.9160156250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+275.6621093750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+276.4628906250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+276.6347656250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+277.3789062500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+277.4882812500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+277.8945312500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+277.9804687500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+279.2285156250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+279.3359375000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+279.7539062500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+279.8554687500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+281.1054687500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+281.7617187500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+281.7714843750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+283.5136718750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+283.6210937500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+284.1972656250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+284.3007812500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+285.5507812500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+286.0527343750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+286.2304687500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+287.9746093750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+289.5585937500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+290.8085937500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+290.9160156250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+291.5683593750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+291.5820312500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+293.3242187500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+293.4316406250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+293.9160156250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+294.0839843750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+295.3339843750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+295.4394531250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+296.1718750000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+296.2792968750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+297.5312500000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+297.6347656250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+298.5703125000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+298.6757812500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+300.4199218750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+302.0058593750	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+303.2539062500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+303.7929687500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+303.9589843750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+304.7050781250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+305.2578125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+305.3437500000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+306.0898437500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+306.1953125000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+307.7421875000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+308.9921875000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+309.6445312500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+309.6718750000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+310.4160156250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+310.5214843750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+312.0664062500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+312.8125000000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+313.4648437500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+313.5703125000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+314.8242187500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+314.9277343750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+315.5878906250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+315.6484375000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+316.3925781250	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+317.0273437500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+317.2050781250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+317.9492187500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+318.0585937500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+318.9316406250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+319.1113281250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+320.8515625000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+321.4335937500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+321.5195312500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+322.7695312500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+322.8769531250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+323.3984375000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+323.5703125000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+325.3105468750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+325.4199218750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+325.8378906250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+325.9511718750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+327.6933593750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+328.1621093750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+328.2656250000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+330.0117187500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+330.1191406250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+331.6601562500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+333.4042968750	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+333.9882812500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+334.1640625000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+335.4140625000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+337.0000000000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+338.7421875000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+338.8496093750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+339.4785156250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+339.5546875000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+341.2968750000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+341.9140625000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+341.9375000000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+343.6816406250	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+343.7871093750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+344.3183593750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+344.4511718750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+345.1972656250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+345.7500000000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+345.8496093750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+347.1015625000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+348.6855468750	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+349.9375000000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+350.6933593750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+350.8007812500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+352.0527343750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+352.5332031250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+352.6386718750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+354.3828125000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+354.9042968750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+355.0722656250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+355.8203125000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+355.9257812500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+356.7480468750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+356.8593750000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+358.6015625000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+359.0722656250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+359.1738281250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+360.4257812500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+360.5312500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+360.9785156250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+361.1562500000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+362.4082031250	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+362.5136718750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+362.9589843750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+363.1269531250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+364.3808593750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+365.9628906250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+366.7089843750	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+367.4257812500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+367.5078125000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+368.7578125000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+369.2421875000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+369.3437500000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+371.0898437500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+371.6972656250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+371.8750000000	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+373.6171875000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+374.2519531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+374.3378906250	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+375.5859375000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+375.6953125000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+376.4003906250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+376.4941406250	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+378.2363281250	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+378.3437500000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+378.8164062500	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+378.9960937500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+380.2460937500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+380.7832031250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+380.8730468750	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+382.6152343750	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+384.1992187500	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+384.9453125000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+385.5058593750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+385.5312500000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+386.2753906250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+386.9785156250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+387.0078125000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+388.7519531250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+389.4941406250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+389.6035156250	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+390.3496093750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+390.4570312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+390.9648437500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+391.0683593750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+392.8125000000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+392.9179687500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+393.8164062500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+393.8359375000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+395.5800781250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+395.6875000000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+396.1816406250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+396.2851562500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+397.0312500000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+397.7519531250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+397.8554687500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+399.6015625000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+399.7050781250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+400.1718750000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+400.2792968750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+401.0234375000	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+401.6035156250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+401.7812500000	n/a	n/a	45 5CCPT: Go Response: Incorrect Button	n/a	n/a	65325
+402.5273437500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+402.6328125000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+403.2558593750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+403.4316406250	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+404.1796875000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+404.6835937500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+404.7910156250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+406.0429687500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+406.6113281250	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+406.7871093750	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+407.5332031250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+408.0019531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+408.1054687500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+408.8515625000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+409.5937500000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+409.6093750000	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+411.3535156250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+412.1132812500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+412.2187500000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+413.4707031250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+414.0937500000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+414.1230468750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+414.8671875000	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+415.5253906250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+415.6269531250	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+417.3691406250	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+417.4746093750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+418.0292968750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+418.1289062500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+419.3808593750	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+419.4863281250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+419.9414062500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+420.0195312500	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+421.7617187500	n/a	n/a	4 5CCPT: Go Stim	n/a	n/a	65284
+422.2792968750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+422.3750000000	n/a	n/a	14 5CCPT: Go Response: Hit	n/a	n/a	65294
+423.1210937500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+423.2265625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+423.8085937500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+423.8261718750	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+424.5703125000	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+424.6777343750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+425.1679687500	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+425.1835937500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+426.4355468750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+426.5449218750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+426.9882812500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+426.9941406250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+428.7382812500	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+428.8476562500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+429.2265625000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+429.2441406250	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+430.9863281250	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+431.4433593750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+431.5468750000	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+432.2910156250	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+433.8769531250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+434.6210937500	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+434.7304687500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+435.3300781250	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+435.4335937500	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+436.6835937500	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+436.7929687500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+437.2089843750	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+437.3105468750	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+438.0546875000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+438.1640625000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+439.7050781250	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+440.4511718750	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+440.5644531250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+441.0000000000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+441.1035156250	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+441.8496093750	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+441.9570312500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+442.4609375000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+442.4882812500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+444.2324218750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+444.3398437500	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+444.8671875000	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+444.9765625000	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+445.7226562500	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+446.2246093750	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+446.4023437500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+448.1464843750	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+448.7949218750	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+448.9042968750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+449.6484375000	n/a	n/a	5 5CCPT: Go Stim	n/a	n/a	65285
+449.7558593750	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+450.1875000000	n/a	n/a	25 5CCPT: Go Response	n/a	n/a	65305
+450.3554687500	n/a	n/a	15 5CCPT: Go Response: Hit	n/a	n/a	65295
+451.6054687500	n/a	n/a	1 5CCPT: Go Stim	n/a	n/a	65281
+452.0664062500	n/a	n/a	21 5CCPT: Go Response	n/a	n/a	65301
+452.1777343750	n/a	n/a	11 5CCPT: Go Response: Hit	n/a	n/a	65291
+453.4296875000	n/a	n/a	3 5CCPT: Go Stim	n/a	n/a	65283
+453.8828125000	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+453.9882812500	n/a	n/a	13 5CCPT: Go Response: Hit	n/a	n/a	65293
+455.2421875000	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+455.3457031250	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+456.8906250000	n/a	n/a	30 5CCPT: NoGo Non-Response: CR	n/a	n/a	65310
+458.6347656250	n/a	n/a	2 5CCPT: Go Stim	n/a	n/a	65282
+459.1894531250	n/a	n/a	23 5CCPT: Go Response	n/a	n/a	65303
+459.2070312500	n/a	n/a	12 5CCPT: Go Response: Hit	n/a	n/a	65292
+460.4570312500	n/a	n/a	6 5CCPT: NoGo Stim	n/a	n/a	65286
+460.5625000000	n/a	n/a	22 5CCPT: Mask onset (hard condition)	n/a	n/a	65302
+462.7265625000	n/a	n/a	STATUS	n/a	n/a	65534
+467.5742187500	n/a	n/a	STATUS	n/a	n/a	65361
+468.1347656250	n/a	n/a	STATUS	n/a	n/a	65287
+471.6093750000	n/a	n/a	STATUS	n/a	n/a	65366
+475.3359375000	n/a	n/a	STATUS	n/a	n/a	65361
+475.9082031250	n/a	n/a	STATUS	n/a	n/a	65287
+477.4531250000	n/a	n/a	STATUS	n/a	n/a	65363
+481.3945312500	n/a	n/a	STATUS	n/a	n/a	65362
+481.9648437500	n/a	n/a	STATUS	n/a	n/a	65287
+483.7617187500	n/a	n/a	STATUS	n/a	n/a	65366
+487.3457031250	n/a	n/a	STATUS	n/a	n/a	65362
+487.9140625000	n/a	n/a	STATUS	n/a	n/a	65287
+489.4062500000	n/a	n/a	STATUS	n/a	n/a	65366
+492.9765625000	n/a	n/a	STATUS	n/a	n/a	65361
+493.5449218750	n/a	n/a	STATUS	n/a	n/a	65287
+494.8222656250	n/a	n/a	STATUS	n/a	n/a	65363
+498.5605468750	n/a	n/a	STATUS	n/a	n/a	65361
+499.1210937500	n/a	n/a	STATUS	n/a	n/a	65287
+501.5312500000	n/a	n/a	STATUS	n/a	n/a	65363
+505.0507812500	n/a	n/a	STATUS	n/a	n/a	65361
+505.6171875000	n/a	n/a	STATUS	n/a	n/a	65287
+506.8554687500	n/a	n/a	STATUS	n/a	n/a	65363
+510.5488281250	n/a	n/a	STATUS	n/a	n/a	65362
+511.1152343750	n/a	n/a	STATUS	n/a	n/a	65287
+512.6855468750	n/a	n/a	STATUS	n/a	n/a	65366
+516.2929687500	n/a	n/a	STATUS	n/a	n/a	65362
+516.8652343750	n/a	n/a	STATUS	n/a	n/a	65287
+518.6640625000	n/a	n/a	STATUS	n/a	n/a	65364
+522.2675781250	n/a	n/a	STATUS	n/a	n/a	65361
+522.8281250000	n/a	n/a	STATUS	n/a	n/a	65287
+523.9472656250	n/a	n/a	STATUS	n/a	n/a	65363
+527.8945312500	n/a	n/a	STATUS	n/a	n/a	65361
+528.4589843750	n/a	n/a	STATUS	n/a	n/a	65287
+529.6582031250	n/a	n/a	STATUS	n/a	n/a	65363
+533.3984375000	n/a	n/a	STATUS	n/a	n/a	65361
+533.9707031250	n/a	n/a	STATUS	n/a	n/a	65287
+535.9941406250	n/a	n/a	STATUS	n/a	n/a	65363
+539.6523437500	n/a	n/a	STATUS	n/a	n/a	65361
+540.2128906250	n/a	n/a	STATUS	n/a	n/a	65287
+541.5585937500	n/a	n/a	STATUS	n/a	n/a	65363
+547.0507812500	n/a	n/a	STATUS	n/a	n/a	65362
+547.6132812500	n/a	n/a	STATUS	n/a	n/a	65287
+549.1191406250	n/a	n/a	STATUS	n/a	n/a	65366
+552.7988281250	n/a	n/a	STATUS	n/a	n/a	65362
+553.3632812500	n/a	n/a	STATUS	n/a	n/a	65287
+555.8671875000	n/a	n/a	STATUS	n/a	n/a	65366
+560.2050781250	n/a	n/a	STATUS	n/a	n/a	65361
+560.7792968750	n/a	n/a	STATUS	n/a	n/a	65287
+561.9375000000	n/a	n/a	STATUS	n/a	n/a	65363
+566.0019531250	n/a	n/a	STATUS	n/a	n/a	65362
+566.5683593750	n/a	n/a	STATUS	n/a	n/a	65287
+568.2070312500	n/a	n/a	STATUS	n/a	n/a	65366
+572.1308593750	n/a	n/a	STATUS	n/a	n/a	65362
+572.6914062500	n/a	n/a	STATUS	n/a	n/a	65287
+574.1972656250	n/a	n/a	STATUS	n/a	n/a	65366
+577.8691406250	n/a	n/a	STATUS	n/a	n/a	65361
+578.4414062500	n/a	n/a	STATUS	n/a	n/a	65287
+579.9062500000	n/a	n/a	STATUS	n/a	n/a	65366
+583.6171875000	n/a	n/a	STATUS	n/a	n/a	65361
+584.1796875000	n/a	n/a	STATUS	n/a	n/a	65287
+585.3378906250	n/a	n/a	STATUS	n/a	n/a	65363
+588.9511718750	n/a	n/a	STATUS	n/a	n/a	65361
+589.5175781250	n/a	n/a	STATUS	n/a	n/a	65287
+591.9667968750	n/a	n/a	STATUS	n/a	n/a	65366
+595.8261718750	n/a	n/a	STATUS	n/a	n/a	65361
+596.3984375000	n/a	n/a	STATUS	n/a	n/a	65287
+597.4902343750	n/a	n/a	STATUS	n/a	n/a	65363
+601.2539062500	n/a	n/a	STATUS	n/a	n/a	65361
+601.8164062500	n/a	n/a	STATUS	n/a	n/a	65287
+603.0683593750	n/a	n/a	STATUS	n/a	n/a	65363
+607.2519531250	n/a	n/a	STATUS	n/a	n/a	65361
+607.8203125000	n/a	n/a	STATUS	n/a	n/a	65287
+609.0449218750	n/a	n/a	STATUS	n/a	n/a	65363
+612.5351562500	n/a	n/a	STATUS	n/a	n/a	65361
+613.1035156250	n/a	n/a	STATUS	n/a	n/a	65287
+614.2890625000	n/a	n/a	STATUS	n/a	n/a	65363
+618.1660156250	n/a	n/a	STATUS	n/a	n/a	65362
+618.7343750000	n/a	n/a	STATUS	n/a	n/a	65287
+620.2128906250	n/a	n/a	STATUS	n/a	n/a	65366
+623.9941406250	n/a	n/a	STATUS	n/a	n/a	65362
+624.5644531250	n/a	n/a	STATUS	n/a	n/a	65287
+625.9628906250	n/a	n/a	STATUS	n/a	n/a	65366
+629.5273437500	n/a	n/a	STATUS	n/a	n/a	65362
+630.0878906250	n/a	n/a	STATUS	n/a	n/a	65287
+632.7519531250	n/a	n/a	STATUS	n/a	n/a	65366
+636.7714843750	n/a	n/a	STATUS	n/a	n/a	65362
+637.3437500000	n/a	n/a	STATUS	n/a	n/a	65287
+638.7949218750	n/a	n/a	STATUS	n/a	n/a	65364
+642.8398437500	n/a	n/a	STATUS	n/a	n/a	65361
+643.4003906250	n/a	n/a	STATUS	n/a	n/a	65287
+644.4511718750	n/a	n/a	STATUS	n/a	n/a	65363
+648.5175781250	n/a	n/a	STATUS	n/a	n/a	65361
+649.0839843750	n/a	n/a	STATUS	n/a	n/a	65287
+650.2949218750	n/a	n/a	STATUS	n/a	n/a	65366
+653.7187500000	n/a	n/a	STATUS	n/a	n/a	65361
+654.2890625000	n/a	n/a	STATUS	n/a	n/a	65287
+655.3535156250	n/a	n/a	STATUS	n/a	n/a	65363
+660.0664062500	n/a	n/a	STATUS	n/a	n/a	65362
+660.6367187500	n/a	n/a	STATUS	n/a	n/a	65287
+662.3144531250	n/a	n/a	STATUS	n/a	n/a	65366
+666.0820312500	n/a	n/a	STATUS	n/a	n/a	65362
+666.6542968750	n/a	n/a	STATUS	n/a	n/a	65287
+667.9453125000	n/a	n/a	STATUS	n/a	n/a	65366
+671.5722656250	n/a	n/a	STATUS	n/a	n/a	65362
+672.1386718750	n/a	n/a	STATUS	n/a	n/a	65287
+673.4960937500	n/a	n/a	STATUS	n/a	n/a	65366
+677.0156250000	n/a	n/a	STATUS	n/a	n/a	65362
+677.5820312500	n/a	n/a	STATUS	n/a	n/a	65287
+679.1542968750	n/a	n/a	STATUS	n/a	n/a	65366
+683.9257812500	n/a	n/a	STATUS	n/a	n/a	65362
+684.4902343750	n/a	n/a	STATUS	n/a	n/a	65287
+686.4218750000	n/a	n/a	STATUS	n/a	n/a	65366
+689.8613281250	n/a	n/a	STATUS	n/a	n/a	65361
+690.4277343750	n/a	n/a	STATUS	n/a	n/a	65287
+691.2675781250	n/a	n/a	STATUS	n/a	n/a	65363
+695.3515625000	n/a	n/a	STATUS	n/a	n/a	65361
+695.9257812500	n/a	n/a	STATUS	n/a	n/a	65287
+698.3476562500	n/a	n/a	STATUS	n/a	n/a	65366
+701.8261718750	n/a	n/a	STATUS	n/a	n/a	65361
+702.3945312500	n/a	n/a	STATUS	n/a	n/a	65287
+703.5000000000	n/a	n/a	STATUS	n/a	n/a	65363
+707.2890625000	n/a	n/a	STATUS	n/a	n/a	65361
+707.8515625000	n/a	n/a	STATUS	n/a	n/a	65287
+708.7441406250	n/a	n/a	STATUS	n/a	n/a	65363
+712.2734375000	n/a	n/a	STATUS	n/a	n/a	65361
+712.8437500000	n/a	n/a	STATUS	n/a	n/a	65287
+713.9628906250	n/a	n/a	STATUS	n/a	n/a	65363
+717.5917968750	n/a	n/a	STATUS	n/a	n/a	65361
+718.1542968750	n/a	n/a	STATUS	n/a	n/a	65287
+719.2324218750	n/a	n/a	STATUS	n/a	n/a	65363
+723.6464843750	n/a	n/a	STATUS	n/a	n/a	65362
+724.2109375000	n/a	n/a	STATUS	n/a	n/a	65287
+726.1542968750	n/a	n/a	STATUS	n/a	n/a	65366
+729.9453125000	n/a	n/a	STATUS	n/a	n/a	65362
+730.5078125000	n/a	n/a	STATUS	n/a	n/a	65287
+732.2910156250	n/a	n/a	STATUS	n/a	n/a	65366
+735.8769531250	n/a	n/a	STATUS	n/a	n/a	65362
+736.4433593750	n/a	n/a	STATUS	n/a	n/a	65287
+738.0156250000	n/a	n/a	STATUS	n/a	n/a	65366
+741.5917968750	n/a	n/a	STATUS	n/a	n/a	65361
+742.1542968750	n/a	n/a	STATUS	n/a	n/a	65287
+743.2851562500	n/a	n/a	STATUS	n/a	n/a	65363
+747.3066406250	n/a	n/a	STATUS	n/a	n/a	65361
+747.8769531250	n/a	n/a	STATUS	n/a	n/a	65287
+749.0625000000	n/a	n/a	STATUS	n/a	n/a	65363
+752.9414062500	n/a	n/a	STATUS	n/a	n/a	65361
+753.5078125000	n/a	n/a	STATUS	n/a	n/a	65287
+754.6660156250	n/a	n/a	STATUS	n/a	n/a	65363
+758.3613281250	n/a	n/a	STATUS	n/a	n/a	65361
+758.9257812500	n/a	n/a	STATUS	n/a	n/a	65287
+760.0449218750	n/a	n/a	STATUS	n/a	n/a	65363
+764.0390625000	n/a	n/a	STATUS	n/a	n/a	65361
+764.6093750000	n/a	n/a	STATUS	n/a	n/a	65287
+765.8222656250	n/a	n/a	STATUS	n/a	n/a	65363
+769.7148437500	n/a	n/a	STATUS	n/a	n/a	65361
+770.2792968750	n/a	n/a	STATUS	n/a	n/a	65287
+771.4121093750	n/a	n/a	STATUS	n/a	n/a	65363
+775.6679687500	n/a	n/a	STATUS	n/a	n/a	65362
+776.2304687500	n/a	n/a	STATUS	n/a	n/a	65287
+777.5625000000	n/a	n/a	STATUS	n/a	n/a	65366
+783.0488281250	n/a	n/a	STATUS	n/a	n/a	65362
+783.6171875000	n/a	n/a	STATUS	n/a	n/a	65287
+785.6425781250	n/a	n/a	STATUS	n/a	n/a	65366
+789.2480468750	n/a	n/a	STATUS	n/a	n/a	65362
+789.8066406250	n/a	n/a	STATUS	n/a	n/a	65287
+791.9648437500	n/a	n/a	STATUS	n/a	n/a	65364
+795.5292968750	n/a	n/a	STATUS	n/a	n/a	65361
+796.1035156250	n/a	n/a	STATUS	n/a	n/a	65287
+797.6875000000	n/a	n/a	STATUS	n/a	n/a	65363
+801.1445312500	n/a	n/a	STATUS	n/a	n/a	65361
+801.7070312500	n/a	n/a	STATUS	n/a	n/a	65287
+802.7460937500	n/a	n/a	STATUS	n/a	n/a	65363
+806.2636718750	n/a	n/a	STATUS	n/a	n/a	65361
+806.8320312500	n/a	n/a	STATUS	n/a	n/a	65287
+808.0039062500	n/a	n/a	STATUS	n/a	n/a	65363
+811.7460937500	n/a	n/a	STATUS	n/a	n/a	65361
+812.3164062500	n/a	n/a	STATUS	n/a	n/a	65287
+813.3945312500	n/a	n/a	STATUS	n/a	n/a	65363
+816.9707031250	n/a	n/a	STATUS	n/a	n/a	65361
+817.5332031250	n/a	n/a	STATUS	n/a	n/a	65287
+818.6523437500	n/a	n/a	STATUS	n/a	n/a	65363
+822.1601562500	n/a	n/a	STATUS	n/a	n/a	65361
+822.7246093750	n/a	n/a	STATUS	n/a	n/a	65287
+823.8046875000	n/a	n/a	STATUS	n/a	n/a	65363
+827.7558593750	n/a	n/a	STATUS	n/a	n/a	65361
+828.3164062500	n/a	n/a	STATUS	n/a	n/a	65287
+829.5156250000	n/a	n/a	STATUS	n/a	n/a	65363
+833.8984375000	n/a	n/a	STATUS	n/a	n/a	65362
+834.4648437500	n/a	n/a	STATUS	n/a	n/a	65287
+835.6914062500	n/a	n/a	STATUS	n/a	n/a	65366
+839.2988281250	n/a	n/a	STATUS	n/a	n/a	65362
+839.8691406250	n/a	n/a	STATUS	n/a	n/a	65287
+841.4804687500	n/a	n/a	STATUS	n/a	n/a	65366
+845.1777343750	n/a	n/a	STATUS	n/a	n/a	65362
+845.7402343750	n/a	n/a	STATUS	n/a	n/a	65287
+847.3652343750	n/a	n/a	STATUS	n/a	n/a	65366
+850.7480468750	n/a	n/a	STATUS	n/a	n/a	65361
+851.3164062500	n/a	n/a	STATUS	n/a	n/a	65287
+852.2773437500	n/a	n/a	STATUS	n/a	n/a	65363
+856.1738281250	n/a	n/a	STATUS	n/a	n/a	65361
+856.7343750000	n/a	n/a	STATUS	n/a	n/a	65287
+857.7871093750	n/a	n/a	STATUS	n/a	n/a	65363
+861.4062500000	n/a	n/a	STATUS	n/a	n/a	65361
+861.9785156250	n/a	n/a	STATUS	n/a	n/a	65287
+863.0722656250	n/a	n/a	STATUS	n/a	n/a	65363
+866.9101562500	n/a	n/a	STATUS	n/a	n/a	65361
+867.4765625000	n/a	n/a	STATUS	n/a	n/a	65287
+868.5957031250	n/a	n/a	STATUS	n/a	n/a	65363
+872.4843750000	n/a	n/a	STATUS	n/a	n/a	65361
+873.0546875000	n/a	n/a	STATUS	n/a	n/a	65287
+874.3730468750	n/a	n/a	STATUS	n/a	n/a	65363
+878.1425781250	n/a	n/a	STATUS	n/a	n/a	65361
+878.7109375000	n/a	n/a	STATUS	n/a	n/a	65287
+879.8574218750	n/a	n/a	STATUS	n/a	n/a	65363
+882.8593750000	n/a	n/a	STATUS	n/a	n/a	65534
+887.0585937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+888.0566406250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+890.5996093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+891.4121093750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+893.9531250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+894.7792968750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+897.3222656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+898.3066406250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+900.8496093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+901.8613281250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+904.4023437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+905.2675781250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+907.8105468750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+908.8886718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+911.4316406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+912.2421875000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+914.7851562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+916.8476562500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+919.3906250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+920.4687500000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+923.0117187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+923.5839843750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+926.1269531250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+927.0449218750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+929.5878906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+933.1679687500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+935.7109375000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+936.5761718750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+939.1171875000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+940.1835937500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+942.7246093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+943.5234375000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+946.0664062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+946.6523437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+949.1953125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+951.1777343750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+953.7207031250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+954.3066406250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+956.8476562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+958.2714843750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+960.8144531250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+961.5195312500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+964.0625000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+964.5546875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+967.0976562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+967.5898437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+970.1328125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+970.8105468750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+973.3535156250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+973.9003906250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+976.4414062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+977.0683593750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+979.6093750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+980.3164062500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+982.8574218750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+983.4570312500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+986.0000000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+988.6621093750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+991.2031250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+992.5488281250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+995.0898437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+997.5136718750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1000.0566406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1000.8808593750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1003.4238281250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1004.4355468750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1006.9765625000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1008.2949218750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1010.8378906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1011.7167968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1014.2578125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1015.5371093750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1018.0781250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1018.7441406250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1021.2871093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1021.7929687500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1024.3339843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1025.2128906250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1027.7558593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1028.2890625000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1030.8300781250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1031.3222656250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1033.8652343750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1036.5019531250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1039.0429687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1039.7363281250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1042.2773437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1043.1308593750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1045.6718750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1047.1367187500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1049.6796875000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1050.2109375000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1052.7539062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1053.3261718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1055.8691406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1056.5214843750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1059.0625000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1059.9941406250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1062.5371093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1062.9375000000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1065.5058593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1067.5429687500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1070.0839843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1070.9101562500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1073.4531250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1074.0781250000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1076.6210937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1078.2441406250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1080.7871093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1081.8242187500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1084.3671875000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1084.8339843750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1087.3750000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1087.9355468750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1090.4765625000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1091.6093750000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1094.1503906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1095.0957031250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1097.6386718750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1098.5175781250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1101.0585937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1102.0039062500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1104.5468750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1105.4921875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1108.0351562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1108.9921875000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1111.5351562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1112.1347656250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1114.6757812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1115.5546875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1118.0976562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1119.2812500000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1121.8242187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1122.5039062500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1125.0449218750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1125.7246093750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1128.2675781250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1128.6523437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1131.1953125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1131.5156250000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1134.0566406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1134.5625000000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1137.1054687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1137.6503906250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1140.1933593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1141.4453125000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1143.9882812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1144.4003906250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1146.9433593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1147.2753906250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1149.8183593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1150.1367187500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1152.6796875000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1153.0917968750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1155.6347656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1156.4199218750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1158.9628906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1159.4140625000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1161.9570312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1163.0488281250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1165.5917968750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1166.2558593750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1168.7988281250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1169.3457031250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1171.8867187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1172.3125000000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1174.8554687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1175.4687500000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1178.0097656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1178.6230468750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1181.1640625000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1182.0566406250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1184.5996093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1185.2382812500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1187.7812500000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1188.1523437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1190.6953125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1191.1875000000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1193.7304687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1194.1035156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1196.6464843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1197.1914062500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1199.7343750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1200.0664062500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1202.6093750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1202.7285156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1205.2714843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1205.6972656250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1208.2402343750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1208.9589843750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1211.5000000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1212.1523437500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1214.6953125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1215.3867187500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1217.9296875000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1218.5156250000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1221.0585937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1221.4570312500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1224.0000000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1224.4785156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1227.0488281250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1228.8457031250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1231.3867187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1232.2792968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1234.8222656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1235.3007812500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1237.8437500000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1238.4023437500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1240.9453125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1241.6093750000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1244.1523437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1244.7656250000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1247.3066406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1247.7070312500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1250.2480468750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1250.6347656250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1253.1777343750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1254.4160156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1256.9570312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1257.7167968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1260.2597656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1261.6699218750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1264.2128906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1264.8378906250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1267.3808593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1268.2460937500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1270.7871093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1271.2265625000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1273.7695312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1273.9550781250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1276.4980468750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1277.0175781250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1279.5605468750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1280.2910156250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1282.8339843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1283.2597656250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1285.8027343750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1286.7343750000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1289.2773437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1289.6503906250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1292.1914062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1293.2695312500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1295.8125000000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1296.5585937500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1299.0996093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1299.7792968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1302.3222656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1302.6542968750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1305.1972656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1306.3417968750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1308.8847656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1309.1757812500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1311.7187500000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1312.3710937500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1314.9140625000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1316.6035156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1319.1464843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1319.6132812500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1322.1542968750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1322.7812500000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1325.3222656250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1326.1074218750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1328.6503906250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1330.1953125000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1332.7363281250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1333.3496093750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1335.8925781250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1337.0625000000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1339.6054687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1340.2050781250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1342.7460937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1343.0390625000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1345.5820312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1346.0078125000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1348.5507812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1349.4023437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1351.9453125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1352.3046875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1354.8476562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1355.3789062500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1357.9218750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1358.3203125000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1360.8632812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1361.3027343750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1363.8457031250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1364.1503906250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1366.6933593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1367.0253906250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1369.5683593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1370.3007812500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1372.8437500000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1372.9101562500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1375.4511718750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1376.0917968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1378.6328125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1379.1386718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1381.6816406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1382.1601562500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1384.7031250000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1385.4746093750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1388.0449218750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1389.2812500000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1391.8242187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1392.2773437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1394.8203125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1395.1796875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1397.7207031250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1398.2929687500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1400.8359375000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1401.5273437500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1404.0703125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1405.1347656250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1407.6777343750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1408.5566406250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1411.0996093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1412.6562500000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1415.1992187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1415.9843750000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1418.5273437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1419.5917968750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1422.1328125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1422.6132812500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1425.1562500000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1425.7812500000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1428.3242187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1428.7753906250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1431.3183593750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1431.7050781250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1434.2460937500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1434.6718750000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1437.2148437500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1438.0000000000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1440.5429687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1441.1816406250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1443.7246093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1444.2304687500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1446.7714843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1447.5039062500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1450.0468750000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1450.3261718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1452.8691406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1453.2148437500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1455.7578125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1456.6484375000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1459.1914062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1459.8437500000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1462.3867187500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1462.8515625000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1465.3945312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1466.0332031250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1468.5761718750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1469.1875000000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1471.7304687500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1472.5957031250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1475.1386718750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1475.6035156250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1478.1464843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1478.6523437500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1481.1953125000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1481.7265625000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1484.2695312500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1485.0546875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1487.5976562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1488.4355468750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1490.9785156250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1492.1230468750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1494.6660156250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1495.2109375000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1497.7539062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1498.0859375000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1500.6289062500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1501.3203125000	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1503.8632812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1504.3027343750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1506.8457031250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1507.6972656250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1510.2382812500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1510.7324218750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1513.2734375000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1513.5800781250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1516.1230468750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1516.5488281250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1519.0917968750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1519.4238281250	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1521.9667968750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1522.2460937500	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1524.7871093750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1524.8554687500	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1527.3964843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1527.8496093750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1530.3925781250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1531.0449218750	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1533.5859375000	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1534.3046875000	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1536.8476562500	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1537.5136718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1540.0566406250	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1540.8535156250	n/a	n/a	32 PST: Correct FB	n/a	n/a	65312
+1543.3964843750	n/a	n/a	31 PST: Stimulus Pair	n/a	n/a	65311
+1543.8886718750	n/a	n/a	39 PST: Incorrect FB	n/a	n/a	65319
+1545.9687500000	n/a	n/a	STATUS	n/a	n/a	65534
+1549.1621093750	n/a	n/a	STATUS	n/a	n/a	65320
+1550.1621093750	n/a	n/a	STATUS	n/a	n/a	65339
+1552.7304687500	n/a	n/a	STATUS	n/a	n/a	65320
+1553.2675781250	n/a	n/a	STATUS	n/a	n/a	65326
+1553.3300781250	n/a	n/a	STATUS	n/a	n/a	65327
+1556.2851562500	n/a	n/a	STATUS	n/a	n/a	65320
+1557.2832031250	n/a	n/a	STATUS	n/a	n/a	65330
+1557.6699218750	n/a	n/a	STATUS	n/a	n/a	65336
+1557.7343750000	n/a	n/a	STATUS	n/a	n/a	65337
+1559.8378906250	n/a	n/a	STATUS	n/a	n/a	65320
+1560.8359375000	n/a	n/a	STATUS	n/a	n/a	65330
+1561.8359375000	n/a	n/a	STATUS	n/a	n/a	65340
+1562.0820312500	n/a	n/a	STATUS	n/a	n/a	65346
+1562.1406250000	n/a	n/a	STATUS	n/a	n/a	65347
+1563.3925781250	n/a	n/a	STATUS	n/a	n/a	65320
+1564.3906250000	n/a	n/a	STATUS	n/a	n/a	65339
+1566.9472656250	n/a	n/a	STATUS	n/a	n/a	65320
+1567.4531250000	n/a	n/a	STATUS	n/a	n/a	65326
+1567.5195312500	n/a	n/a	STATUS	n/a	n/a	65327
+1570.5000000000	n/a	n/a	STATUS	n/a	n/a	65320
+1570.8652343750	n/a	n/a	STATUS	n/a	n/a	65326
+1570.9257812500	n/a	n/a	STATUS	n/a	n/a	65327
+1574.0683593750	n/a	n/a	STATUS	n/a	n/a	65320
+1575.0664062500	n/a	n/a	STATUS	n/a	n/a	65330
+1576.0644531250	n/a	n/a	STATUS	n/a	n/a	65340
+1576.0683593750	n/a	n/a	STATUS	n/a	n/a	65346
+1576.1308593750	n/a	n/a	STATUS	n/a	n/a	65347
+1577.6210937500	n/a	n/a	STATUS	n/a	n/a	65320
+1578.6191406250	n/a	n/a	STATUS	n/a	n/a	65330
+1579.2109375000	n/a	n/a	STATUS	n/a	n/a	65336
+1579.2734375000	n/a	n/a	STATUS	n/a	n/a	65337
+1581.1757812500	n/a	n/a	STATUS	n/a	n/a	65320
+1582.1738281250	n/a	n/a	STATUS	n/a	n/a	65330
+1583.1718750000	n/a	n/a	STATUS	n/a	n/a	65349
+1584.7304687500	n/a	n/a	STATUS	n/a	n/a	65320
+1585.7285156250	n/a	n/a	STATUS	n/a	n/a	65330
+1586.0527343750	n/a	n/a	STATUS	n/a	n/a	65336
+1586.1152343750	n/a	n/a	STATUS	n/a	n/a	65337
+1588.2832031250	n/a	n/a	STATUS	n/a	n/a	65320
+1588.6054687500	n/a	n/a	STATUS	n/a	n/a	65326
+1588.6699218750	n/a	n/a	STATUS	n/a	n/a	65327
+1591.8378906250	n/a	n/a	STATUS	n/a	n/a	65320
+1592.8359375000	n/a	n/a	STATUS	n/a	n/a	65330
+1593.3437500000	n/a	n/a	STATUS	n/a	n/a	65336
+1593.4082031250	n/a	n/a	STATUS	n/a	n/a	65337
+1598.8925781250	n/a	n/a	STATUS	n/a	n/a	65320
+1599.8906250000	n/a	n/a	STATUS	n/a	n/a	65330
+1600.5351562500	n/a	n/a	STATUS	n/a	n/a	65336
+1600.5976562500	n/a	n/a	STATUS	n/a	n/a	65337
+1602.4472656250	n/a	n/a	STATUS	n/a	n/a	65320
+1603.4453125000	n/a	n/a	STATUS	n/a	n/a	65339
+1606.0019531250	n/a	n/a	STATUS	n/a	n/a	65320
+1607.0000000000	n/a	n/a	STATUS	n/a	n/a	65330
+1607.9980468750	n/a	n/a	STATUS	n/a	n/a	65349
+1609.5546875000	n/a	n/a	STATUS	n/a	n/a	65320
+1610.5527343750	n/a	n/a	STATUS	n/a	n/a	65330
+1610.8652343750	n/a	n/a	STATUS	n/a	n/a	65336
+1610.9257812500	n/a	n/a	STATUS	n/a	n/a	65337
+1613.1230468750	n/a	n/a	STATUS	n/a	n/a	65320
+1613.5449218750	n/a	n/a	STATUS	n/a	n/a	65326
+1613.6015625000	n/a	n/a	STATUS	n/a	n/a	65327
+1616.6757812500	n/a	n/a	STATUS	n/a	n/a	65320
+1617.6738281250	n/a	n/a	STATUS	n/a	n/a	65330
+1618.1953125000	n/a	n/a	STATUS	n/a	n/a	65336
+1618.2597656250	n/a	n/a	STATUS	n/a	n/a	65337
+1620.2304687500	n/a	n/a	STATUS	n/a	n/a	65320
+1621.2285156250	n/a	n/a	STATUS	n/a	n/a	65330
+1622.2265625000	n/a	n/a	STATUS	n/a	n/a	65340
+1622.6035156250	n/a	n/a	STATUS	n/a	n/a	65346
+1622.6660156250	n/a	n/a	STATUS	n/a	n/a	65347
+1623.7851562500	n/a	n/a	STATUS	n/a	n/a	65320
+1624.7832031250	n/a	n/a	STATUS	n/a	n/a	65330
+1624.8632812500	n/a	n/a	STATUS	n/a	n/a	65336
+1624.9296875000	n/a	n/a	STATUS	n/a	n/a	65337
+1627.3378906250	n/a	n/a	STATUS	n/a	n/a	65320
+1628.3359375000	n/a	n/a	STATUS	n/a	n/a	65330
+1628.7304687500	n/a	n/a	STATUS	n/a	n/a	65336
+1628.7890625000	n/a	n/a	STATUS	n/a	n/a	65337
+1630.8925781250	n/a	n/a	STATUS	n/a	n/a	65320
+1631.8906250000	n/a	n/a	STATUS	n/a	n/a	65330
+1632.8886718750	n/a	n/a	STATUS	n/a	n/a	65340
+1633.2890625000	n/a	n/a	STATUS	n/a	n/a	65346
+1633.3554687500	n/a	n/a	STATUS	n/a	n/a	65347
+1634.4472656250	n/a	n/a	STATUS	n/a	n/a	65320
+1635.1484375000	n/a	n/a	STATUS	n/a	n/a	65326
+1635.2050781250	n/a	n/a	STATUS	n/a	n/a	65327
+1638.0136718750	n/a	n/a	STATUS	n/a	n/a	65320
+1638.8320312500	n/a	n/a	STATUS	n/a	n/a	65326
+1638.8925781250	n/a	n/a	STATUS	n/a	n/a	65327
+1641.5820312500	n/a	n/a	STATUS	n/a	n/a	65320
+1642.5800781250	n/a	n/a	STATUS	n/a	n/a	65339
+1645.1347656250	n/a	n/a	STATUS	n/a	n/a	65320
+1646.1328125000	n/a	n/a	STATUS	n/a	n/a	65330
+1647.1328125000	n/a	n/a	STATUS	n/a	n/a	65340
+1647.4179687500	n/a	n/a	STATUS	n/a	n/a	65346
+1647.4785156250	n/a	n/a	STATUS	n/a	n/a	65347
+1652.1894531250	n/a	n/a	STATUS	n/a	n/a	65320
+1652.7500000000	n/a	n/a	STATUS	n/a	n/a	65326
+1652.8164062500	n/a	n/a	STATUS	n/a	n/a	65327
+1655.7441406250	n/a	n/a	STATUS	n/a	n/a	65320
+1656.1132812500	n/a	n/a	STATUS	n/a	n/a	65326
+1656.1699218750	n/a	n/a	STATUS	n/a	n/a	65327
+1659.2988281250	n/a	n/a	STATUS	n/a	n/a	65320
+1660.2968750000	n/a	n/a	STATUS	n/a	n/a	65330
+1660.6230468750	n/a	n/a	STATUS	n/a	n/a	65336
+1660.6816406250	n/a	n/a	STATUS	n/a	n/a	65337
+1662.8652343750	n/a	n/a	STATUS	n/a	n/a	65320
+1663.8632812500	n/a	n/a	STATUS	n/a	n/a	65330
+1664.1875000000	n/a	n/a	STATUS	n/a	n/a	65336
+1664.2500000000	n/a	n/a	STATUS	n/a	n/a	65337
+1666.4335937500	n/a	n/a	STATUS	n/a	n/a	65320
+1667.4316406250	n/a	n/a	STATUS	n/a	n/a	65330
+1668.4296875000	n/a	n/a	STATUS	n/a	n/a	65340
+1668.7343750000	n/a	n/a	STATUS	n/a	n/a	65346
+1668.8027343750	n/a	n/a	STATUS	n/a	n/a	65347
+1669.9863281250	n/a	n/a	STATUS	n/a	n/a	65320
+1670.9843750000	n/a	n/a	STATUS	n/a	n/a	65330
+1671.6738281250	n/a	n/a	STATUS	n/a	n/a	65336
+1671.7304687500	n/a	n/a	STATUS	n/a	n/a	65337
+1673.5410156250	n/a	n/a	STATUS	n/a	n/a	65320
+1674.5390625000	n/a	n/a	STATUS	n/a	n/a	65339
+1677.1074218750	n/a	n/a	STATUS	n/a	n/a	65320
+1677.9687500000	n/a	n/a	STATUS	n/a	n/a	65326
+1678.0273437500	n/a	n/a	STATUS	n/a	n/a	65327
+1680.6757812500	n/a	n/a	STATUS	n/a	n/a	65320
+1681.6738281250	n/a	n/a	STATUS	n/a	n/a	65339
+1684.2304687500	n/a	n/a	STATUS	n/a	n/a	65320
+1685.2285156250	n/a	n/a	STATUS	n/a	n/a	65339
+1687.7832031250	n/a	n/a	STATUS	n/a	n/a	65320
+1688.1269531250	n/a	n/a	STATUS	n/a	n/a	65326
+1688.1835937500	n/a	n/a	STATUS	n/a	n/a	65327
+1691.3378906250	n/a	n/a	STATUS	n/a	n/a	65320
+1691.7187500000	n/a	n/a	STATUS	n/a	n/a	65326
+1691.7773437500	n/a	n/a	STATUS	n/a	n/a	65327
+1694.9042968750	n/a	n/a	STATUS	n/a	n/a	65320
+1695.9023437500	n/a	n/a	STATUS	n/a	n/a	65330
+1696.3691406250	n/a	n/a	STATUS	n/a	n/a	65336
+1696.4355468750	n/a	n/a	STATUS	n/a	n/a	65337
+1698.4726562500	n/a	n/a	STATUS	n/a	n/a	65320
+1699.4707031250	n/a	n/a	STATUS	n/a	n/a	65330
+1700.4687500000	n/a	n/a	STATUS	n/a	n/a	65340
+1700.8691406250	n/a	n/a	STATUS	n/a	n/a	65346
+1700.9355468750	n/a	n/a	STATUS	n/a	n/a	65347
+1705.5273437500	n/a	n/a	STATUS	n/a	n/a	65320
+1706.1074218750	n/a	n/a	STATUS	n/a	n/a	65326
+1706.1660156250	n/a	n/a	STATUS	n/a	n/a	65327
+1709.0820312500	n/a	n/a	STATUS	n/a	n/a	65320
+1710.0800781250	n/a	n/a	STATUS	n/a	n/a	65330
+1710.4550781250	n/a	n/a	STATUS	n/a	n/a	65336
+1710.5195312500	n/a	n/a	STATUS	n/a	n/a	65337
+1712.6347656250	n/a	n/a	STATUS	n/a	n/a	65320
+1713.6328125000	n/a	n/a	STATUS	n/a	n/a	65330
+1713.8945312500	n/a	n/a	STATUS	n/a	n/a	65336
+1713.9531250000	n/a	n/a	STATUS	n/a	n/a	65337
+1716.1894531250	n/a	n/a	STATUS	n/a	n/a	65320
+1716.5703125000	n/a	n/a	STATUS	n/a	n/a	65326
+1716.6289062500	n/a	n/a	STATUS	n/a	n/a	65327
+1719.7558593750	n/a	n/a	STATUS	n/a	n/a	65320
+1720.1328125000	n/a	n/a	STATUS	n/a	n/a	65326
+1720.1953125000	n/a	n/a	STATUS	n/a	n/a	65327
+1723.3242187500	n/a	n/a	STATUS	n/a	n/a	65320
+1724.3222656250	n/a	n/a	STATUS	n/a	n/a	65339
+1726.8789062500	n/a	n/a	STATUS	n/a	n/a	65320
+1727.8769531250	n/a	n/a	STATUS	n/a	n/a	65330
+1728.8750000000	n/a	n/a	STATUS	n/a	n/a	65349
+1730.4316406250	n/a	n/a	STATUS	n/a	n/a	65320
+1731.4296875000	n/a	n/a	STATUS	n/a	n/a	65330
+1732.4277343750	n/a	n/a	STATUS	n/a	n/a	65340
+1732.7460937500	n/a	n/a	STATUS	n/a	n/a	65346
+1732.8144531250	n/a	n/a	STATUS	n/a	n/a	65347
+1734.0000000000	n/a	n/a	STATUS	n/a	n/a	65320
+1734.9980468750	n/a	n/a	STATUS	n/a	n/a	65339
+1737.5664062500	n/a	n/a	STATUS	n/a	n/a	65320
+1737.7812500000	n/a	n/a	STATUS	n/a	n/a	65326
+1737.8457031250	n/a	n/a	STATUS	n/a	n/a	65327
+1741.1210937500	n/a	n/a	STATUS	n/a	n/a	65320
+1741.4101562500	n/a	n/a	STATUS	n/a	n/a	65326
+1741.4667968750	n/a	n/a	STATUS	n/a	n/a	65327
+1744.6757812500	n/a	n/a	STATUS	n/a	n/a	65320
+1745.6738281250	n/a	n/a	STATUS	n/a	n/a	65339
+1748.2421875000	n/a	n/a	STATUS	n/a	n/a	65320
+1748.6035156250	n/a	n/a	STATUS	n/a	n/a	65326
+1748.6679687500	n/a	n/a	STATUS	n/a	n/a	65327
+1751.8085937500	n/a	n/a	STATUS	n/a	n/a	65320
+1752.3906250000	n/a	n/a	STATUS	n/a	n/a	65326
+1752.4492187500	n/a	n/a	STATUS	n/a	n/a	65327
+1758.8652343750	n/a	n/a	STATUS	n/a	n/a	65320
+1759.8632812500	n/a	n/a	STATUS	n/a	n/a	65339
+1762.4179687500	n/a	n/a	STATUS	n/a	n/a	65320
+1763.4160156250	n/a	n/a	STATUS	n/a	n/a	65339
+1765.9726562500	n/a	n/a	STATUS	n/a	n/a	65320
+1766.6171875000	n/a	n/a	STATUS	n/a	n/a	65326
+1766.6777343750	n/a	n/a	STATUS	n/a	n/a	65327
+1769.5273437500	n/a	n/a	STATUS	n/a	n/a	65320
+1769.8593750000	n/a	n/a	STATUS	n/a	n/a	65326
+1769.9257812500	n/a	n/a	STATUS	n/a	n/a	65327
+1773.0800781250	n/a	n/a	STATUS	n/a	n/a	65320
+1773.6718750000	n/a	n/a	STATUS	n/a	n/a	65326
+1773.7324218750	n/a	n/a	STATUS	n/a	n/a	65327
+1776.6484375000	n/a	n/a	STATUS	n/a	n/a	65320
+1776.9824218750	n/a	n/a	STATUS	n/a	n/a	65326
+1777.0468750000	n/a	n/a	STATUS	n/a	n/a	65327
+1780.2148437500	n/a	n/a	STATUS	n/a	n/a	65320
+1781.2128906250	n/a	n/a	STATUS	n/a	n/a	65330
+1782.1250000000	n/a	n/a	STATUS	n/a	n/a	65336
+1782.1855468750	n/a	n/a	STATUS	n/a	n/a	65337
+1783.7695312500	n/a	n/a	STATUS	n/a	n/a	65320
+1784.7675781250	n/a	n/a	STATUS	n/a	n/a	65330
+1785.7656250000	n/a	n/a	STATUS	n/a	n/a	65340
+1786.0449218750	n/a	n/a	STATUS	n/a	n/a	65346
+1786.1113281250	n/a	n/a	STATUS	n/a	n/a	65347
+1787.3222656250	n/a	n/a	STATUS	n/a	n/a	65320
+1788.3222656250	n/a	n/a	STATUS	n/a	n/a	65330
+1789.3203125000	n/a	n/a	STATUS	n/a	n/a	65349
+1790.8906250000	n/a	n/a	STATUS	n/a	n/a	65320
+1791.8886718750	n/a	n/a	STATUS	n/a	n/a	65339
+1794.4570312500	n/a	n/a	STATUS	n/a	n/a	65320
+1794.7363281250	n/a	n/a	STATUS	n/a	n/a	65326
+1794.8046875000	n/a	n/a	STATUS	n/a	n/a	65327
+1798.0117187500	n/a	n/a	STATUS	n/a	n/a	65320
+1798.3515625000	n/a	n/a	STATUS	n/a	n/a	65326
+1798.4101562500	n/a	n/a	STATUS	n/a	n/a	65327
+1801.5664062500	n/a	n/a	STATUS	n/a	n/a	65320
+1801.9824218750	n/a	n/a	STATUS	n/a	n/a	65326
+1802.0449218750	n/a	n/a	STATUS	n/a	n/a	65327
+1805.1328125000	n/a	n/a	STATUS	n/a	n/a	65320
+1805.4687500000	n/a	n/a	STATUS	n/a	n/a	65326
+1805.5332031250	n/a	n/a	STATUS	n/a	n/a	65327
+1812.2011718750	n/a	n/a	STATUS	n/a	n/a	65320
+1812.6250000000	n/a	n/a	STATUS	n/a	n/a	65326
+1812.6796875000	n/a	n/a	STATUS	n/a	n/a	65327
+1815.7558593750	n/a	n/a	STATUS	n/a	n/a	65320
+1816.7539062500	n/a	n/a	STATUS	n/a	n/a	65339
+1819.3085937500	n/a	n/a	STATUS	n/a	n/a	65320
+1820.3085937500	n/a	n/a	STATUS	n/a	n/a	65330
+1821.3066406250	n/a	n/a	STATUS	n/a	n/a	65349
+1822.8632812500	n/a	n/a	STATUS	n/a	n/a	65320
+1823.8613281250	n/a	n/a	STATUS	n/a	n/a	65330
+1824.1093750000	n/a	n/a	STATUS	n/a	n/a	65336
+1824.1679687500	n/a	n/a	STATUS	n/a	n/a	65337
+1826.4179687500	n/a	n/a	STATUS	n/a	n/a	65320
+1827.4160156250	n/a	n/a	STATUS	n/a	n/a	65330
+1827.6933593750	n/a	n/a	STATUS	n/a	n/a	65336
+1827.7617187500	n/a	n/a	STATUS	n/a	n/a	65337
+1829.9843750000	n/a	n/a	STATUS	n/a	n/a	65320
+1830.3378906250	n/a	n/a	STATUS	n/a	n/a	65326
+1830.3964843750	n/a	n/a	STATUS	n/a	n/a	65327
+1833.5527343750	n/a	n/a	STATUS	n/a	n/a	65320
+1834.5507812500	n/a	n/a	STATUS	n/a	n/a	65339
+1837.1054687500	n/a	n/a	STATUS	n/a	n/a	65320
+1838.1035156250	n/a	n/a	STATUS	n/a	n/a	65330
+1838.8203125000	n/a	n/a	STATUS	n/a	n/a	65336
+1838.8769531250	n/a	n/a	STATUS	n/a	n/a	65337
+1840.6601562500	n/a	n/a	STATUS	n/a	n/a	65320
+1841.6582031250	n/a	n/a	STATUS	n/a	n/a	65330
+1841.9511718750	n/a	n/a	STATUS	n/a	n/a	65336
+1842.0175781250	n/a	n/a	STATUS	n/a	n/a	65337
+1844.2148437500	n/a	n/a	STATUS	n/a	n/a	65320
+1844.6191406250	n/a	n/a	STATUS	n/a	n/a	65326
+1844.6796875000	n/a	n/a	STATUS	n/a	n/a	65327
+1847.7812500000	n/a	n/a	STATUS	n/a	n/a	65320
+1848.0976562500	n/a	n/a	STATUS	n/a	n/a	65326
+1848.1542968750	n/a	n/a	STATUS	n/a	n/a	65327
+1851.3496093750	n/a	n/a	STATUS	n/a	n/a	65320
+1852.3476562500	n/a	n/a	STATUS	n/a	n/a	65330
+1852.9082031250	n/a	n/a	STATUS	n/a	n/a	65336
+1852.9726562500	n/a	n/a	STATUS	n/a	n/a	65337
+1854.9023437500	n/a	n/a	STATUS	n/a	n/a	65320
+1855.9003906250	n/a	n/a	STATUS	n/a	n/a	65330
+1856.2480468750	n/a	n/a	STATUS	n/a	n/a	65336
+1856.3144531250	n/a	n/a	STATUS	n/a	n/a	65337
+1861.9570312500	n/a	n/a	STATUS	n/a	n/a	65320
+1862.4902343750	n/a	n/a	STATUS	n/a	n/a	65326
+1862.5566406250	n/a	n/a	STATUS	n/a	n/a	65327
+1865.5117187500	n/a	n/a	STATUS	n/a	n/a	65320
+1866.3906250000	n/a	n/a	STATUS	n/a	n/a	65326
+1866.4570312500	n/a	n/a	STATUS	n/a	n/a	65327
+1869.0800781250	n/a	n/a	STATUS	n/a	n/a	65320
+1870.0781250000	n/a	n/a	STATUS	n/a	n/a	65330
+1871.0761718750	n/a	n/a	STATUS	n/a	n/a	65340
+1871.4335937500	n/a	n/a	STATUS	n/a	n/a	65346
+1871.5019531250	n/a	n/a	STATUS	n/a	n/a	65347
+1872.6464843750	n/a	n/a	STATUS	n/a	n/a	65320
+1873.6445312500	n/a	n/a	STATUS	n/a	n/a	65339
+1876.2011718750	n/a	n/a	STATUS	n/a	n/a	65320
+1876.8281250000	n/a	n/a	STATUS	n/a	n/a	65326
+1876.8925781250	n/a	n/a	STATUS	n/a	n/a	65327
+1879.7539062500	n/a	n/a	STATUS	n/a	n/a	65320
+1880.7539062500	n/a	n/a	STATUS	n/a	n/a	65339
+1883.3085937500	n/a	n/a	STATUS	n/a	n/a	65320
+1884.3066406250	n/a	n/a	STATUS	n/a	n/a	65339
+1886.8769531250	n/a	n/a	STATUS	n/a	n/a	65320
+1887.8750000000	n/a	n/a	STATUS	n/a	n/a	65330
+1888.3261718750	n/a	n/a	STATUS	n/a	n/a	65336
+1888.3925781250	n/a	n/a	STATUS	n/a	n/a	65337
+1890.4433593750	n/a	n/a	STATUS	n/a	n/a	65320
+1891.2617187500	n/a	n/a	STATUS	n/a	n/a	65326
+1891.3222656250	n/a	n/a	STATUS	n/a	n/a	65327
+1893.9980468750	n/a	n/a	STATUS	n/a	n/a	65320
+1894.3339843750	n/a	n/a	STATUS	n/a	n/a	65326
+1894.3964843750	n/a	n/a	STATUS	n/a	n/a	65327
+1897.5507812500	n/a	n/a	STATUS	n/a	n/a	65320
+1897.9453125000	n/a	n/a	STATUS	n/a	n/a	65326
+1898.0039062500	n/a	n/a	STATUS	n/a	n/a	65327
+1901.1054687500	n/a	n/a	STATUS	n/a	n/a	65320
+1901.5039062500	n/a	n/a	STATUS	n/a	n/a	65326
+1901.5703125000	n/a	n/a	STATUS	n/a	n/a	65327
+1904.6738281250	n/a	n/a	STATUS	n/a	n/a	65320
+1905.6718750000	n/a	n/a	STATUS	n/a	n/a	65330
+1905.9199218750	n/a	n/a	STATUS	n/a	n/a	65336
+1905.9765625000	n/a	n/a	STATUS	n/a	n/a	65337
+1908.2265625000	n/a	n/a	STATUS	n/a	n/a	65320
+1909.2246093750	n/a	n/a	STATUS	n/a	n/a	65339
+1911.7031250000	n/a	n/a	STATUS	n/a	n/a	65534
+1913.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1914.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1915.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1916.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1917.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1918.7207031250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1918.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1919.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1920.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1921.0644531250	n/a	n/a	STATUS	n/a	n/a	65401
+1923.0644531250	n/a	n/a	STATUS	n/a	n/a	65402
+1923.0742187500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1923.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1924.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1925.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1926.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1927.1875000000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1927.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1928.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1929.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1930.7695312500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1930.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1931.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1932.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1933.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1934.2695312500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1934.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1935.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1936.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1937.5722656250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1937.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1938.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1939.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1940.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1940.8574218750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1940.9101562500	n/a	n/a	STATUS	n/a	n/a	65401
+1942.9101562500	n/a	n/a	STATUS	n/a	n/a	65402
+1942.9199218750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1943.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1944.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1945.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1946.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1947.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1947.8457031250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1948.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1949.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1950.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1951.2148437500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1951.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1952.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1953.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1954.7949218750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1954.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1955.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1956.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1957.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1958.3632812500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1958.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1959.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1960.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1961.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1961.9414062500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1962.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1963.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1964.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1965.4589843750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1965.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1966.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1967.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1968.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1968.9296875000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1969.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1970.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1971.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1972.4863281250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1972.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1973.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1974.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1975.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1975.9726562500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1976.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1977.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1978.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1979.3808593750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1979.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1980.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1981.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1982.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1982.8281250000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1983.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1984.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1985.1699218750	n/a	n/a	STATUS	n/a	n/a	65401
+1987.1679687500	n/a	n/a	STATUS	n/a	n/a	65402
+1987.1796875000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1987.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1988.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1989.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1990.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1991.3085937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1991.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1992.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1993.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1994.5800781250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1994.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1995.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1996.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1997.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1997.9492187500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+1998.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+1999.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2000.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2001.2089843750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2001.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2002.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2003.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2004.5664062500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2004.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2005.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2006.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2007.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2007.8925781250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2008.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2009.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2010.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2011.0996093750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2011.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2012.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2013.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2014.5625000000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2014.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2015.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2016.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2017.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2017.9550781250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2018.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2019.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2020.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2021.4296875000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2021.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2022.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2023.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2024.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2025.1289062500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2025.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2026.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2027.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2028.6191406250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2028.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2029.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2030.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2031.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2032.0781250000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2032.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2033.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2034.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2035.6875000000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2035.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2036.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2037.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2038.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2039.2929687500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2039.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2040.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2041.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2042.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2042.9687500000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2043.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2044.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2045.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2046.5878906250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2046.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2047.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2048.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2049.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2050.1933593750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2050.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2051.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2052.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2053.4707031250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2053.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2054.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2055.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2056.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2057.0234375000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2057.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2058.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2059.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2060.7246093750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2060.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2061.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2062.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2063.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2064.1835937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2064.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2065.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2066.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2067.6074218750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2067.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2068.7363281250	n/a	n/a	STATUS	n/a	n/a	65401
+2070.7343750000	n/a	n/a	STATUS	n/a	n/a	65402
+2070.7460937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2070.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2071.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2072.8125000000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2073.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2074.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2075.1542968750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2075.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2076.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2077.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2078.1464843750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2078.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2079.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2080.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2081.2890625000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2081.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2082.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2083.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2084.3925781250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2084.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2085.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2086.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2087.3710937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2087.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2088.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2089.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2090.6210937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2090.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2091.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2092.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2093.6015625000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2093.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2094.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2095.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2096.7832031250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2096.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2097.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2098.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2099.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2100.3242187500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2100.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2101.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2102.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2103.6796875000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2103.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2104.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2105.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2106.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2107.0058593750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2107.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2108.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2109.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2110.5605468750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2110.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2111.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2112.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2113.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2113.8339843750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2114.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2115.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2116.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2117.0429687500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2117.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2118.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2119.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2120.3828125000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2120.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2121.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2122.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2123.7265625000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2123.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2124.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2125.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2126.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2127.0781250000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2127.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2128.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2129.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2130.4062500000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2130.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2131.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2132.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2133.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2133.8945312500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2134.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2135.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2136.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2137.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2138.4609375000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2138.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2139.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2140.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2141.8007812500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2141.8144531250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2142.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2143.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2144.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2145.4882812500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2145.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2146.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2147.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2148.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2149.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2150.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2151.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2151.8242187500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2152.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2153.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2154.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2154.8574218750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2155.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2156.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2157.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2157.9863281250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2158.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2159.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2160.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2161.1425781250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2161.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2162.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2163.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2164.1484375000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2164.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2165.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2166.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2167.1191406250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2167.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2168.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2169.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2169.9531250000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2170.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2171.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2172.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2172.9238281250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2173.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2174.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2175.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2175.9960937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2176.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2177.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2178.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2179.0039062500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2179.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2180.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2181.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2181.9335937500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2182.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2183.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2184.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2185.6601562500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2185.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2186.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2187.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2188.3378906250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2188.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2189.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2190.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2191.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2192.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2193.2070312500	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2193.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2194.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2195.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2196.1503906250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2196.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2197.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2198.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2199.2910156250	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2199.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2200.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2201.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2202.3261718750	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2202.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2203.8105468750	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2204.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2205.3203125000	n/a	n/a	117 PRBP: Visual FB to every 3rd response	n/a	n/a	65397
+2205.3730468750	n/a	n/a	STATUS	n/a	n/a	65401
+2207.3730468750	n/a	n/a	STATUS	n/a	n/a	65402
+2207.3828125000	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2207.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2208.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2209.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2210.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2211.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2212.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2213.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2214.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2215.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2216.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2217.8066406250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2218.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2219.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2220.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2221.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2222.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2223.8066406250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2224.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2225.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2226.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2227.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2228.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2229.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2230.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2231.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2232.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2233.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2234.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2235.8085937500	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2236.8066406250	n/a	n/a	116 PRBP: 1 second tick	n/a	n/a	65396
+2237.4121093750	n/a	n/a	STATUS	n/a	n/a	65401
+2239.4121093750	n/a	n/a	STATUS	n/a	n/a	65402
