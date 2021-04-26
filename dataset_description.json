@@ -1,13 +1,15 @@
 {
-  "Name": "5CCPTPSTPRBP",
-  "ReferencesAndLinks": ["pending"],
-  "Authors": [
-    "James F Cavanagh",
-    "Greg Light",
-    "Neal Swerdlow",
-    "Jonathan Brigman",
-    "Jared Young"
-  ],
-  "License": "",
-  "BIDSVersion": "1.1.1"
+    "Name": "EEG: Electrophysiological biomarkers of behavioral dimensions \nfrom cross-species paradigms",
+    "ReferencesAndLinks": [
+        "pending"
+    ],
+    "Authors": [
+        "James F Cavanagh",
+        "Greg Light",
+        "Neal Swerdlow",
+        "Jonathan Brigman",
+        "Jared Young"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1"
 }
